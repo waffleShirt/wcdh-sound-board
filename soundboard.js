@@ -151,7 +151,7 @@ var soundData = [
     },
     {
         sound: new Howl({
-            src: ['sounds/Eeey.mp3']
+            src: ['sounds/eeey.mp3']
         }),
         description: 'Eeey'
     },
@@ -187,7 +187,7 @@ var soundData = [
     },
     {
         sound: new Howl({
-            src: ['sounds/Kuuung.mp3']
+            src: ['sounds/kuuung.mp3']
         }),
         description: 'Kuuung'
     },
@@ -211,13 +211,13 @@ var soundData = [
     },
     {
         sound: new Howl({
-            src: ['sounds/Vuuush.mp3']
+            src: ['sounds/vuuush.mp3']
         }),
         description: 'Vuuush'
     },
     {
         sound: new Howl({
-            src: ['sounds/Waah.mp3']
+            src: ['sounds/waah.mp3']
         }),
         description: 'Waah'
     },
