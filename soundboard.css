@@ -20,7 +20,7 @@
 	text-decoration:none;
     text-shadow:0px 1px 0px #810e05;
     float: left;
-    margin: 2%; 
+    margin: 1%; 
 }
 
 .sound-btn:hover {
@@ -41,7 +41,7 @@
 
 #soundboard-buttons-container {
     margin: 20px auto;
-    max-width: 600px;
+    max-width: 1300px;
 }
 
 body {
