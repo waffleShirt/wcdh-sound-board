@@ -41,7 +41,19 @@
 
 #soundboard-buttons-container {
     margin: 20px auto;
-    max-width: 1300px;
+	max-width: 1300px;
+	overflow: auto; 
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap; 
+}
+
+#info {
+	text-align: center;
+    margin: 20px auto;
+	max-width: 1300px;
+	font-size: .7rem;
+	font-family: 'Fredoka One', cursive;
 }
 
 body {
@@ -71,12 +83,21 @@ html {
     font-family: 'Fascinate', cursive;
 }
 
+#header #line4 {
+    font-size: .8rem;
+	font-family: 'Fredoka One', cursive;
+}
+
 table {
     margin: 0 auto;
 }
 
 img {
-    max-width: 100%;
-    max-height: 850%; 
-    height: auto;
+	max-width: 100%;
+   	max-height: 100%;  
+	height: auto; 
+}
+
+.headimg {
+	min-width: 80px;
 }

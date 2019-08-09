@@ -245,6 +245,42 @@ var soundData = [
         }),
         description: 'Yeeeenup'
     },
+    {
+        sound: new Howl({
+            src: ['sounds/cah cah.mp3']
+        }),
+        description: 'Cah cah'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/kekekekekuh.mp3']
+        }),
+        description: 'Kekekekekuh'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/Kuh.mp3']
+        }),
+        description: 'Kuh'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/pleh.mp3']
+        }),
+        description: 'Pleh'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/cahcahkingkingkung.mp3']
+        }),
+        description: 'Cahcahkingkingkung'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/beh beh.mp3']
+        }),
+        description: 'Beh beh'
+    },
 ]
 
 /*
