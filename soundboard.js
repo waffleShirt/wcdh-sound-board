@@ -205,6 +205,12 @@ var soundData = [
     },
     {
         sound: new Howl({
+            src: ['sounds/tweettweet2.mp3']
+        }),
+        description: 'Tweet tweet 2'
+    },
+    {
+        sound: new Howl({
             src: ['sounds/vraah.mp3']
         }),
         description: 'Vraah'
@@ -280,6 +286,24 @@ var soundData = [
             src: ['sounds/beh beh.mp3']
         }),
         description: 'Beh beh'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/balowalowablah.mp3']
+        }),
+        description: 'Balowalowablah'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/brrah vavavavavavabah.mp3']
+        }),
+        description: 'Brrah vavavavavavabah'
+    },
+    {
+        sound: new Howl({
+            src: ['sounds/fwooooosh fwoosh.mp3']
+        }),
+        description: 'Fwooooosh fwoosh'
     },
 ]
 
